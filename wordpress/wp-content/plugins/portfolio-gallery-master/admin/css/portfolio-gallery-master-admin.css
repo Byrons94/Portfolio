@@ -1,0 +1,35 @@
+.pgm-settings .form-table th {
+    padding: 15px 10px 0;
+}
+.pgm-settings .form-table td {
+    padding: 15px 10px 0;
+}
+
+.pgm-settings label {
+    cursor: auto;
+    margin-right: 10px;
+}
+span.pgm_notice {
+    color: #D2691E;
+    font-weight: bold;
+}
+span.pgm_info {
+    color: #3273E8;
+    font-style: italic;
+}
+input.pgm-shortcode-display {
+    background-color: #FF0;
+}
+div#pgm_portfolio_display_mode_settings {
+ margin: 5px;
+ padding: 5px;
+}
+div#pgm_portfolio_display_mode_settings label {
+    width: 265px!important;
+    display: inline-block;
+}
+
+/* minicolors css override */
+.minicolors-theme-default .minicolors-input {
+	height:27px!important;
+}
